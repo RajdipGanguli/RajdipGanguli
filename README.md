@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajdipganguli&label=Profile%20views&color=0e75b6&style=flat" alt="rajdipganguli" /> </p>
 
-- 🔭 I’m currently working on **Open Source Projects**
+- 🔭 I’m currently working on **WebDev Projects**
 
-- 🌱 I’m currently learning **DevOps ,Backend Engineering**
-
-- 🤝 I’m looking for help with **DevOps**
+- 🌱 I’m currently learning **WEBDEV, REACTJS, OPENSOURCE**
 
 - 📫 How to reach me **rajdipganguli18@gmail.com**
 
